@@ -8,3 +8,8 @@
 - `CssDropdown.html` - A simple Dropdown using css animations
 
 - `Strapped-Bootstrap Template` - A simple Bootstrap Theme
+
+- `Github profile finder` - Fectches a github profile fArom the github api and displays it. (AJAX)
+
+- `Image Slider` - A simple Image Slider made using JQuery
+
