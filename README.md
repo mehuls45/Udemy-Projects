@@ -13,3 +13,13 @@
 
 - `Image Slider` - A simple Image Slider made using JQuery
 
+- `Bookmark` - A bookmark manager made using PHP, GET and POST methods
+
+- `Cookie` - PHP code snippet to demonstrate how cookies work and store data
+
+- `Session` - PHP code snippet to demonstrate how sessions work in web browsers
+
+- `RegisterForm` - An HTML form that uses the PHP post method to display data
+
+- `SimpleProfile` - An Angular project that demonstrates how Angular works
+
